@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quiet Mode Manager Support</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 850px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+      color: #222;
+    }
+    h1, h2 {
+      color: #2b2b2b;
+    }
+    .muted {
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <h1>Quiet Mode Manager Support</h1>
+
+  <p class="muted">Support page for Quiet Mode Manager by The WonderByte Studio.</p>
+
+  <h2>Contact Support</h2>
+
+  <p>
+    For help with Quiet Mode Manager, contact:
+  </p>
+
+  <p>
+    <strong>Email:</strong> thewonderbytestudio@gmail.com
+  </p>
+
+  <h2>When Contacting Support</h2>
+
+  <p>
+    Please include:
+  </p>
+
+  <ul>
+    <li>Your device model</li>
+    <li>Your Android version</li>
+    <li>The app version</li>
+    <li>A short description of the issue</li>
+    <li>What you were doing when the issue happened</li>
+  </ul>
+
+  <h2>Common Notes</h2>
+
+  <p>
+    Quiet Mode Manager changes sound settings such as ring volume, media volume, alarm volume, and ringer behavior where supported by your Android device.
+  </p>
+
+  <p>
+    Android behavior can vary by device manufacturer and system version. If a ringer setting does not apply as expected, check your device’s system sound settings manually.
+  </p>
+
+  <h2>Privacy and Terms</h2>
+
+  <p>
+    <a href="privacy-policy.html">Privacy Policy</a>
+  </p>
+
+  <p>
+    <a href="terms.html">Terms of Use</a>
+  </p>
+</body>
+</html>
